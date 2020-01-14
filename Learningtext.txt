@@ -1,0 +1,7 @@
+
+Angular Getting started
+https://github.com/DeborahK/Angular-GettingStarted.
+https://blogs.msmvps.com/deborahk/angular-2-getting-started-problem-solver/
+
+typescript playground
+www.typescriptlang.org/play
